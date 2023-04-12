@@ -1,0 +1,210 @@
+.card{
+    width: 150px;
+    /* margin-top: 50px; */
+    margin-left: 20px;
+   
+}
+.img:hover {
+    transform: scale(1.1);
+}
+.footballer{
+    display: flex;
+    justify-content: center;
+    
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.hprice{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 10px;
+    gap: 20px;
+    height: 10px;
+    /* margin-top: 10px; */
+    /* margin-left: 10px; */
+    /* margin-bottom: 10px; */
+}
+
+  .attrıbutes {
+    /* position: absolute; */
+    display: flex;
+    width: 98%;
+    height: 200px;
+  
+    background-color: #f2f4f5;
+    border-radius: 8px;
+  }
+  .mpa {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .pace {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 50px;
+    right: 40px;
+    background-color: white;
+    border-radius: 8px;
+    border: solid 1px black;
+   
+    
+    /* border: solid 1px #e8282b; */
+  }
+  .shooting {
+    position: absolute;
+    width: 110px;
+    height: 30px;
+    left: 160px;
+    background-color: white;
+    border-radius: 8px;
+    border: solid 1px black;
+    /* border: solid 1px #e8282b; */
+  }
+  .passing {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 280px;
+    background-color: white;
+    border-radius: 8px;
+    border: solid 1px black;
+    /* border: solid 1px #e8282b; */
+  }
+  .defending {
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    left: 390px;
+    background-color: white;
+    border-radius: 8px;
+    border: solid 1px black;
+    /* border: solid 1px #e8282b; */
+  }
+  .dribbiling {
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    left: 520px;
+    background-color: white;
+    border-radius: 8px;
+    border: solid 1px black;
+    /* border: solid 1px #e8282b; */
+  }
+  .physical {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 650px;
+    background-color: white;
+    border-radius: 8px;
+    border: solid 1px black;
+    /* border: solid 1px #e8282b; */
+  }
+  .attrıbutes2 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  .categori {
+    margin-left: 30px;
+  }
+  .mfooter{
+      margin-top: 20px;
+  display: flex;
+  }
+  .teamBack{
+      background-color: #f2f4f5;
+      border-radius: 8px;
+      width: 45%;
+  }
+  .cardTypeBack{
+      background-color: #f2f4f5;
+      border-radius: 8px;
+      width: 45%;
+      margin-left: 30px;
+  
+  }
+  .pteam{
+      margin-left: 20px;
+      margin-top: 10px;
+      font-size: 15px;
+      /* font-weight: 700; */
+  }
+  .team{
+      margin-left: 20px;
+      margin-top: 10px;
+      font-size: 15px;
+      font-weight: 700;
+  }
+  .pCardType{
+      margin-left: 20px;
+      margin-top: 10px;
+      font-size: 15px;
+      /* font-weight: 700; */
+  }
+  .gp{
+      margin-left: 20px;
+      margin-top: 10px;
+      font-size: 15px;
+      font-weight: 700;
+  }
+  .footballer{
+  
+      width: 100%;
+      height: 300px;
+      
+      background-color: #f2f4f5;
+  }
+.mpace{
+    margin-left: 10px;
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.mshooting{
+    margin-left: 10px;
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.mpassing{
+    margin-left: 10px;
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 700;
+}    
+.mdefending{
+    margin-left: 10px;
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.mdribbiling{
+    margin-left: 10px;
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.mphysical{
+    margin-left: 10px;
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: 700;
+}
+   
+
+  
+

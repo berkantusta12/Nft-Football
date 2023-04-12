@@ -1,0 +1,55 @@
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999; /* header'in diğer elemanlar önünde kalmasını sağlar */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 64px;
+    height: 100px;
+    background: #000000;
+  }
+.top{
+  color: aliceblue;
+  display: flex;
+  cursor: pointer;
+}
+.myCards{
+
+    /* text-indent: 100px; */
+    margin-left: 100px;
+    color: aliceblue;
+    cursor: pointer;
+    
+}
+
+.btnCard{
+    /* padding-left: 100px; */
+    margin-left: 100px;
+    width: 48px;
+    height: 48px;
+    top: 37px;
+    left: 90%;
+    color: red;
+    background-color: #E8282B;
+    border-radius: 8px 0px 0px 8px;
+    /* position: absolute; */
+    
+    
+}
+.price{
+    padding-top: 10px;
+    text-align: center;
+    color: aliceblue;
+    /* position: absolute; */
+    width: 100px;
+    height: 48px;
+    top: 37px;
+    left: 90%;
+    
+    background-color: gray;
+    border-radius: 0px 8px 8px 0px;
+}

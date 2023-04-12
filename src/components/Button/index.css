@@ -1,0 +1,55 @@
+.sell-fill-btn{
+  width: 174px;
+  height: 48px;
+  color: white;
+    border-radius: 8px;
+    background-color: #E8282B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.sell-fill-btn:hover {
+    transform: scale(1.1);
+}
+
+.sell-btn{
+   /* padding: 0px 10px; */
+   /* margin-left: 60px; */
+   width: 81px;
+   /* font-weight: 400px;    */
+   text-align: center;
+   font-size: large;
+   border: solid 1px #E8282B;
+   border-radius: 8px;
+   color: white;
+   cursor: pointer;
+   background-color: #E8282B;
+}
+.sell-btn:hover {
+    transform: scale(1.1);
+}
+
+.exit-btn{
+   width: 28px;
+   height: 28px;
+    border-radius: 8px;
+    background-color: #292929;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: aliceblue;
+    cursor: pointer;
+}
+.exit-btn:hover {
+    transform: scale(1.1);
+}
+.cancel-btn{
+    color: #E8282B;
+    cursor: pointer;
+    transition: all 200ms;
+}
+
+.cancel-btn:hover {
+    transform: scale(1.1);
+}
