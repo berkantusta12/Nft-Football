@@ -16,7 +16,7 @@
 
 ## Beginning
 
-Clone this repository on your local machine.
+Clone this repository on your local machine. 
 <br>
 git clone https://github.com/berkantusta12/Nft-Football.git
 
